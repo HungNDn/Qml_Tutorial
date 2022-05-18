@@ -18,5 +18,6 @@ ApplicationWindow {
         color: "red"
         anchors.centerIn: parent
         border.color: "black"
+        border.width: 5
     }
 }
