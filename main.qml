@@ -11,4 +11,12 @@ ApplicationWindow {
     ToDoList {
         anchors.centerIn: parent
     }
+
+    Rectangle {
+        width: 200
+        height: 200
+        color: "red"
+        anchors.centerIn: parent
+        border.color: "black"
+    }
 }
