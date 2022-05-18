@@ -8,10 +8,6 @@ ApplicationWindow {
     height: 480
     title: qsTr("Hello World")
 
-    ToDoList {
-        anchors.centerIn: parent
-    }
-
     Rectangle {
         width: 200
         height: 200
